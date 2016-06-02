@@ -1,0 +1,39 @@
+$bg-color: #90EA90;
+
+body{
+  display: flex;
+  justify-content: center;
+
+  form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: $bg-color;
+    height: 300px;
+    width: 200px;
+    margin: 10%;
+
+    button {
+      height: 60px;
+      width: 50px;
+      margin:0;
+      background-color: $bg-color;
+      border: 1px solid green;
+      color: gray;
+
+      &:hover{
+        background-color:darken($bg-color, 20%);
+        color: yellow;
+        cursor: pointer;
+      }
+    }
+
+    .display {
+      border: 1px solid green;
+      height: 38px;
+      width: 128px;
+      padding: 10px;
+      color: gray;
+      font-size: 26px;
+    }
+  }
+}

@@ -1,0 +1,338 @@
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 50px;
+      width: 140px;
+      padding: 16px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 50px;
+      width: 140px;
+      padding: 8px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 50px;
+      width: 130px;
+      padding: 8px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 40px;
+      width: 130px;
+      padding: 8px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 40px;
+      width: 130px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 40px;
+      width: 125px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 30px;
+      width: 125px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 35px;
+      width: 125px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 38px;
+      width: 125px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 38px;
+      width: 128px;
+      padding: 10px;
+      color: gray; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 38px;
+      width: 128px;
+      padding: 10px;
+      color: gray;
+      font-size: 16px; }
+
+body {
+  display: flex;
+  justify-content: center; }
+  body form {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: #90EA90;
+    height: 300px;
+    width: 200px;
+    margin: 10%; }
+    body form button {
+      height: 60px;
+      width: 50px;
+      margin: 0;
+      background-color: #90EA90;
+      border: 1px solid green;
+      color: gray; }
+      body form button:hover {
+        background-color: #3ada3a;
+        color: yellow;
+        cursor: pointer; }
+    body form .display {
+      border: 1px solid green;
+      height: 38px;
+      width: 128px;
+      padding: 10px;
+      color: gray;
+      font-size: 24px; }
+
